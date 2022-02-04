@@ -11,11 +11,11 @@ You can:
  
 In the project directory, you can run:
 
-### `npm start`
+`npm start`
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## 
+## About this app
 This was my first ever app made with React and it was interesting 
 to implement. As a guide, I used React documentation (https://reactjs.org/) 
 and also tutorial "Create a Table in React" from Youtube 

@@ -9,9 +9,10 @@ You can:
 
 ## Starting 
  
-In the project directory, you can run:
+In the project directory:
+- first run `npm install` to install dependencies
 
-`npm start`
+- then run `npm start` to start the app
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 

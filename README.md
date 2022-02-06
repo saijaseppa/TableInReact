@@ -10,7 +10,7 @@ You can:
 ## Starting 
  
 In the project directory:
-- first run `npm install` to install dependencies
+- first run `npm install` 
 
 - then run `npm start` to start the app
 
